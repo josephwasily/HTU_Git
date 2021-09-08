@@ -3,6 +3,6 @@ class MyFirstClass {
 	SendEmail("Hello", "JOSEPH@B12.COM");
 	
 	string Print(string x){
-	Console.WriteLine(x);
+	Console.PrintLine(x);
 }
 }
