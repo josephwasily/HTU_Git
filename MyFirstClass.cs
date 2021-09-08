@@ -6,4 +6,3 @@ class MyFirstClass {
 	Console.WriteLine(x);
 }
 }
-
