@@ -1,4 +1,4 @@
 MyThirdClass {
 
-	Console.WriteLine("Hello")
+	Console.WriteLine("ThirdClass")
 }
